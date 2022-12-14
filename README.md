@@ -2,7 +2,7 @@
 Flask TODO in python without form
 
 Requirements (all in python 3.10):
-- Flask
+- Flask (https://flask.palletsprojects.com/en/2.2.x/installation/#install-flask)
 - request
 - json
 - datetime
